@@ -1,5 +1,5 @@
-import com.marklogic.util.Consts;
-import com.marklogic.util.UriKeyFileProcessor;
+package com.marklogic.util;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
